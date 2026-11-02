@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "TTGF test"      # Project title
-  author:       "Theodor"      # Your name
+  author:       "Theodor L"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Testing the template."      # One line description of what your project does
   language:     "VHDL"  # other examples include Verilog, SystemVerilog, Amaranth, etc
